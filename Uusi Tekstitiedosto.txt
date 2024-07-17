@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "sb.lao.Wayfurther",
+      "developerName": "Shibo Lyu",
+      "downloadURL": "https://get.nullsclash.net/file/brawl56.274_6422270a.ipa",
+      "iconURL": "https://nullsbrawl.org/wp-content/uploads/2023/09/nulls-brawl.jpeg",
+      "localizedDescription": "Nulls brawl",
+      "name": "Tuubaseta",
+      "screenshotURLs": [],
+      "size": 485000,
+      "subtitle": "Nulls Brawl.",
+      "tintColor": "E47252",
+      "version": "56.274",
+      "versionDate": "2024-07-04T20:00:00+08:00",
+      "versionDescription": "Nulls Brawl to altstore."
+    }
+  ],
+  "identifier": "nt.nb.ios",
+  "name": "Nulls Brawl",
+  "news": [],
+  "userInfo": {}
+}
