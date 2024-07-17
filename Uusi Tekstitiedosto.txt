@@ -2,8 +2,8 @@
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "sb.lao.Wayfurther",
-      "developerName": "Shibo Lyu",
+      "bundleIdentifier": "nt.nb.ios",
+      "developerName": "Tobias Tiebout",
       "downloadURL": "https://get.nullsclash.net/file/brawl56.274_6422270a.ipa",
       "iconURL": "https://nullsbrawl.org/wp-content/uploads/2023/09/nulls-brawl.jpeg",
       "localizedDescription": "Nulls brawl",
